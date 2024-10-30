@@ -1,0 +1,26 @@
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\bin\Debug\matematikoyunu.exe.config
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\bin\Debug\matematikoyunu.exe
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\bin\Debug\matematikoyunu.pdb
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.csproj.AssemblyReference.cache
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.Form1.resources
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.HileForm.resources
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.Properties.Resources.resources
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.SkorForm.resources
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.SoruBlok.resources
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.csproj.GenerateResource.cache
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.csproj.CoreCompileInputs.cache
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.exe
+C:\Users\aslan\Downloads\MatematikOyunu-master\MatematikOyunu-master\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.pdb
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\bin\Debug\matematikoyunu.exe.config
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\bin\Debug\matematikoyunu.exe
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\bin\Debug\matematikoyunu.pdb
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.Form1.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.HileForm.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.Properties.Resources.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.SkorForm.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.SoruBlok.resources
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.csproj.GenerateResource.cache
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.csproj.CoreCompileInputs.cache
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.exe
+C:\Users\aslan\OneDrive\Masaüstü\Programlama Dili-3 Ödev\matematikoyunu\matematikoyunu\obj\Debug\matematikoyunu.pdb
